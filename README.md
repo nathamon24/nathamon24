@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a junior at KMITL, Computer Engineering.
+I'm a junior at KMITL, Computer Engineering.<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathamon24)](https://github.com/nathamon24/github-readme-stats)
