@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a junior at KMITL, Computer Enginerring.
+I'm a junior at KMITL, Computer Engineering.
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathamon24)](https://github.com/nathamon24/github-readme-stats)
