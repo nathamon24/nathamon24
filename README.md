@@ -1,6 +1,7 @@
 ### Hi there 👋
 I'm a junior at KMITL, Computer Engineering.
 
+![nathamon24's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=nathamon24&show_icons=true&locale=en&layout=compact&theme=dracula) 
 <!--
 ![nathamon24's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=nathamon24&show_icons=true&locale=en&layout=compact&theme=dracula) 
 
