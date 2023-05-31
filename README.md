@@ -1,17 +1,11 @@
 <!-- ### Hi there 👋 -->
-<p align="center">
+<!-- 
 ![nathamon24's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=nathamon24&locale=en&layout=donut&theme=dracula&langs_count=10)
-</p>
+-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathamon24&locale=en&layout=donut&theme=dracula&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathamon24&locale=en&layout=donut&theme=dracula" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 <!-- ![nathamon24's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathamon24&show_icons=true&theme=dracula) -->
 <!--
 
