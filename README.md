@@ -3,7 +3,7 @@
 ![nathamon24's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=nathamon24&locale=en&layout=donut&theme=dracula&langs_count=10)
 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathamon24&locale=en&layout=compact&theme=dracula&langs_count=8&card_width=600" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathamon24&locale=en&layout=compact&theme=dracula&langs_count=8&card_width=400" />
 </a>
 
 <!-- ![nathamon24's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathamon24&show_icons=true&theme=dracula) -->
